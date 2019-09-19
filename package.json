@@ -1,6 +1,6 @@
 {
-  "name": "@kfrysztak/react-native-hamburger",
-  "version": "0.0.4",
+  "name": "react-native-hamburger-kf",
+  "version": "0.0.5",
   "description": "Hamburger menu for react-native!",
   "main": "index.js",
   "scripts": {
