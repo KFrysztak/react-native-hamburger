@@ -1,6 +1,6 @@
 {
   "name": "@kfrysztak/react-native-hamburger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Hamburger menu for react-native!",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/kfrysztak/react-native-hamburger/issues"
   },
-  "homepage": "https://github.com/kfrysztak/react-native-hamburger#readme"
+  "homepage": "https://github.com/kfrysztak/react-native-hamburger#readme",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz"
+  }
 }
